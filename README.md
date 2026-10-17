@@ -29,7 +29,7 @@ It also includes a dynamic toggle button to expand advanced Python blocks seamle
 ## 📺 Video Tutorial (Chinese)
 
 Watch the tutorial and get the download extraction codes for Chinese netdisks (Baidu/Quark) here:
-👉 [Click here to watch on Bilibili]((https://space.bilibili.com/3546910872832474))
+👉 [Click here to watch on Bilibili](https://space.bilibili.com/3546910872832474)
 
 ## 👨‍💻 Author
 
